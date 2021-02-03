@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: musayann/nextjs-netlify-blog-template
+  name: git-gateway
+  branch: master
 media_folder: public/images
 public_folder: /images
 publish_mode: editorial_workflow
